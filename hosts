@@ -1,0 +1,2 @@
+[testing]
+12.34.56.78 letsencrypt_email=webmaster@example.com domain_name=subdomain.example.com
